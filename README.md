@@ -1,31 +1,37 @@
-# ed-git-website
+  GNU nano 8.7                       README.md                        Modified
+# Green Bikes
 
-Repositorio público con un pequeño sitio web estático de **Luna Verde Café**, una cafetería ficticia inventada para este ejercicio. La web presenta la carta, el horario y los datos de contacto del local.
+Green Bikes es una empresa de alquiler de bicicletas en el centro de la ciudad. Ofrece bicicletas eléctricas y de montaña para todo el mundo, para moverse por la ciudad de forma rápida, económica y sostenible.
 
-> Nota: tanto la empresa como su contenido son completamente ficticios y se han creado solo con fines educativos.
+Este repositorio contiene la página web de Green Bikes.
+
+## Qué ofrecemos
+
+- **Bicicletas eléctricas**: ideales para recorrer la ciudad sin esfuerzo.
+- **Bicicletas de montaña**: para rutas más exigentes por los alrededores.
+- **Alquiler en el centro**: recogida y devolución en pleno centro de la ciudad.
 
 ## Tecnologías utilizadas
 
 - **HTML**: estructura y contenido de la página.
-- **CSS**: estilos, colores y maquetación.
-
-No se utiliza JavaScript ni ningún framework o librería externa.
+- **CSS**: estilos y aspecto visual.
 
 ## Cómo abrir el sitio web
 
 1. Descarga o clona el repositorio:
    ```bash
-   git clone https://github.com/IciarCas/ed-git-website.git
+   git clone https://github.com/<tu-usuario>/ed-git-website.git
    ```
 2. Entra en la carpeta del proyecto.
-3. Abre el archivo `index.html` en tu navegador, haciendo doble clic sobre él o con *Archivo > Abrir archivo...*.
+3. Abre el archivo `index.html` en tu navegador haciendo doble clic sobre él.
 
 ## Estructura del proyecto
 
 ```
 ed-git-website/
 ├── index.html
-├── css/
-│   └── styles.css
+├── styles.css
 └── README.md
 ```
+
+> Green Bikes es una empresa ficticia creada con fines educativos.
