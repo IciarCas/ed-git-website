@@ -1,4 +1,3 @@
-  GNU nano 8.7                       README.md                        Modified
 # Green Bikes
 
 Green Bikes es una empresa de alquiler de bicicletas en el centro de la ciudad. Ofrece bicicletas eléctricas y de montaña para todo el mundo, para moverse por la ciudad de forma rápida, económica y sostenible.
