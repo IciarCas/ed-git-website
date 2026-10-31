@@ -20,7 +20,7 @@ Este repositorio contiene la página web de Green Bikes.
 
 1. Descarga o clona el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/ed-git-website.git
+   git clone https://github.com/IciarCas/ed-git-website.git
    ```
 2. Entra en la carpeta del proyecto.
 3. Abre el archivo `index.html` en tu navegador haciendo doble clic sobre él.
